@@ -15,7 +15,7 @@ so i made a skill.
 
 ```bash
 mkdir -p ~/.codex/skills
-gh repo clone Devetak/omniskill ~/.codex/skills/omniskill
+git clone https://github.com/Devetak/omniskill.git ~/.codex/skills/omniskill
 ```
 
 Update later with:
