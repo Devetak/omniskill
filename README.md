@@ -11,4 +11,18 @@ I usually tell Codex the same things:
 
 so i made a skill.
 
+## Install
+
+```bash
+mkdir -p ~/.codex/skills
+gh repo clone Devetak/omniskill ~/.codex/skills/omniskill
+```
+
+Update later with:
+
+```bash
+cd ~/.codex/skills/omniskill
+git pull
+```
+
 Best used with [Ponytail](https://github.com/DietrichGebert/ponytail) for coding-heavy work.
