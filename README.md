@@ -18,11 +18,13 @@ mkdir -p ~/.codex/skills
 git clone https://github.com/Devetak/omniskill.git ~/.codex/skills/omniskill
 ```
 
-Update later with:
+## Update
+
+After installation, update the skill with:
 
 ```bash
 cd ~/.codex/skills/omniskill
-git pull
+git pull --ff-only
 ```
 
 Best used with [Ponytail](https://github.com/DietrichGebert/ponytail) for coding-heavy work.

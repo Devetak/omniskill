@@ -9,11 +9,17 @@ Do the simplest thing that correctly satisfies the request.
 
 Complete authorized work end to end. Do not stop at a plan when execution is possible.
 
-## Clarify
+## Work modes
 
-Ask until the task and the intent of the user are clear.
+**Quick (default):** Follow the request and the Omniskill workflow below. Make reasonable assumptions and proceed end to end. Ask only when missing information would materially change or block the work.
 
-Otherwise, proceed.
+**Collaborative (opt-in):** Use when the user asks to think it through, deepen the task, set direction, or be interviewed before execution. Keep the goal, scope, constraints, and deliverable fixed. Inspect available context first, then use these lenses:
+- what a top practitioner in the relevant field would do within scope that the request leaves implicit;
+- the closest-to-source material available;
+- the specific methods and tools suited to the task;
+- what independent evidence could show the result is right, or what remains uncertain if no independent check exists.
+
+Use these as prompts for analysis, not a questionnaire. Ask one high-value question at a time, with a brief recommended answer when useful. Ask only what could change the work; do not make the user supply facts available in files or sources. Iterate on the direction, then present a concise agreed task. Wait for the user to say “launch” or otherwise clearly proceed before execution. Once launched, carry out the agreed task using the Omniskill workflow below. Do not invent sources, tools, or checks, or expand scope and deliverables.
 
 ## Delegate
 
