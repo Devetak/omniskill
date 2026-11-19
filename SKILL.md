@@ -25,7 +25,7 @@ Use these as prompts for analysis, not a questionnaire. Ask one high-value quest
 
 Act as the controller and manager.
 
-Prefer Luna subagents for execution when available.
+Use Luna subagents for execution unless specified otherwise.
 
 Use them for research, browsing, code inspection, implementation, calculations, data work, and other execution tasks, even when the task is small enough to do directly.
 
