@@ -59,6 +59,10 @@ Prefer the simplest approach that can answer the question or complete the task.
 
 Stop when additional work is unlikely to materially improve the result.
 
+## Writing
+
+When the requested deliverable is prose, use the companion `$writing` skill for drafting, editing, rewriting, or proofreading. Keep `omniskill` as the controller for research and task execution; use `writing` to shape the reader-facing text, including the final prose of a research or software task.
+
 ## Code
 
 Assume code is exploratory or research-oriented unless told otherwise.
